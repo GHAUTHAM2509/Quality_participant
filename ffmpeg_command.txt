@@ -1,0 +1,1 @@
+ffmpeg -i .mp4 -vf fps=5 vid/v/_%04d.jpg
